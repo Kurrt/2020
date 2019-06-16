@@ -1,0 +1,12 @@
+Package: com.kurrt.2020
+Name: 2020
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Improve your eyesight.
+Homepage: https://kurrt.com/repo/meow
+Depiction: https://kurrt.com/repo/2020
+SileoDepiction: https://kurrt.com/repo/2020/sileo.php
+Maintainer: Kurrt <dev@kurrt.com>
+Author: Kurrt <dev@kurrt.com>
+Section: Tweaks
